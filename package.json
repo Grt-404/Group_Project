@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "name": "together",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write .",
+    "check-format": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grt-404/Group_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grt-404/Group_Project/issues"
+  },
+  "homepage": "https://github.com/Grt-404/Group_Project#readme",
+  "description": ""
+}
